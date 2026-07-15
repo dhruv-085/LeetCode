@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/dhruvcodes85/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/dhruvcodes85/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvcodes85/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/dhruvcodes85/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0229-majority-element-ii](https://github.com/dhruvcodes85/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhruvcodes85/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/dhruvcodes85/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/dhruvcodes85/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhruvcodes85/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvcodes85/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/dhruvcodes85/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhruvcodes85/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/dhruvcodes85/LeetCode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
