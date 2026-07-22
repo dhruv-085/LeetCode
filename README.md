@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/dhruvcodes85/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/dhruvcodes85/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/dhruvcodes85/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/dhruvcodes85/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/dhruvcodes85/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/dhruvcodes85/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
