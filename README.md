@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/dhruvcodes85/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/dhruvcodes85/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/dhruvcodes85/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dhruvcodes85/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/dhruvcodes85/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dhruvcodes85/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/dhruvcodes85/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/dhruvcodes85/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/dhruvcodes85/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dhruvcodes85/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/dhruvcodes85/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhruvcodes85/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/dhruvcodes85/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dhruvcodes85/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,9 +114,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dhruvcodes85/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/dhruvcodes85/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/dhruvcodes85/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dhruvcodes85/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 <!---LeetCode Topics End-->
