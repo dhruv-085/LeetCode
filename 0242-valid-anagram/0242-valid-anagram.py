@@ -5,11 +5,17 @@ class Solution:
         if len(s) != len(t):
             return False
         
-        s_count = Counter(s)
-        t_count = Counter(t)
+        freq = [0] * 26
 
-        if(s_count == t_count):
-            return True
+        for i in range(len(s)):
 
-        else:
-            return False
+            ## ord is oridinal function, used for getting ASCII values of characters
+            freq[ord(s[i]) - ord('a')] += 1
+
+            ## Same letter no matter where if obtained, will get reduced by one and eventually get cancelled out if present in the exact same number of times, hence handling duplicates as well
+            freq[ord(t[i]) - ord('a')] -= 1
+
+        for count in freq:
+            if count != 0:
+                return False
+        return True
