@@ -2,13 +2,23 @@ class Solution:
     def myAtoi(self, s: str) -> int:
         ## using .lstrip() to strip leading spaces
 
-        s = s.lstrip()
+        # s = s.lstrip()
 
-        if not s:
-            return 0
-            
-        sign = 1
+        ## Raw logic without using extra O(n) space
         i = 0
+        n = len(s)
+
+        while i < n and s[i] == " ":
+            i += 1
+        
+        if i == n: # means empty:
+            return 0
+        
+
+        # if not s:
+        #     return 0
+
+        sign = 1
 
         if s[i] == '-':
             sign = -1
@@ -18,7 +28,7 @@ class Solution:
         
         ans = 0
 
-        while i < len(s) and s[i].isdigit():
+        while i < n and s[i].isdigit():
             ans = ans * 10 + int(s[i])
             i += 1
 
