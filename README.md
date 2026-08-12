@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruvcodes85/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/dhruvcodes85/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/dhruvcodes85/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/dhruvcodes85/LeetCode/tree/main/0031-next-permutation/) | Medium |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruvcodes85/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0118-pascals-triangle](https://github.com/dhruvcodes85/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/dhruvcodes85/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 ## Sorting
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruvcodes85/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/dhruvcodes85/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/dhruvcodes85/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/dhruvcodes85/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
@@ -154,4 +157,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruvcodes85/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruvcodes85/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
