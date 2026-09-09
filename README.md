@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/dhruvcodes85/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/dhruvcodes85/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/dhruvcodes85/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/dhruvcodes85/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,4 +169,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/dhruvcodes85/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/dhruvcodes85/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
