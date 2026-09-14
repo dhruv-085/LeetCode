@@ -6,14 +6,23 @@
 
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        mpp = {}
-        temp = head
+        slow = head
+        fast = head
+        while fast != None and fast.next != None:
+            slow = slow.next
+            fast = fast.next.next
 
-        while temp != None:
-            if temp in mpp:
-                return temp
-
-            mpp[temp] = 1
-            temp = temp.next
-
+            ## Step 1
+            # For checking if loop exists
+            if fast == slow:
+                slow = head
+                
+                ## Step 2 (move by one distance)
+                # Finding the loop starting node 
+                while slow != fast:
+                    slow = slow.next
+                    fast = fast.next
+                
+                return slow
         return None
+            
