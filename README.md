@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/dhruvcodes85/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/dhruvcodes85/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/dhruvcodes85/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/dhruvcodes85/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/dhruvcodes85/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0141-linked-list-cycle](https://github.com/dhruvcodes85/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvcodes85/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/dhruvcodes85/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/dhruvcodes85/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/dhruvcodes85/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/dhruvcodes85/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
